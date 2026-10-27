@@ -9,7 +9,7 @@ I'm an experienced front-end developer expert in Angular, VueJS, ReactJS and hav
 
 - ✉️ You can shoot me an email at nateghixyz in gmail.
 
-- 📄 If you would like to know more about me, please look at my [LinkedIn](https://www.linkedin.com/in/amin-nateghi/) page.
+- 📄 If you would like to know more about me, please look at my [WebSite](https://nateghi.xyz/)
 
 </br>
 
