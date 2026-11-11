@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amin Nateghi</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <h3>💻 About Me:</h3>
 
-I'm an experienced front-end developer expert in ReactJS, Angular, VueJS and have a good knowledge of backend technologies such as NestJS, .Net Core, gRPC, Microservices, PostgreSQL and GraphQL.
+I am a programmer with most of my experience in the front-end, but I have an equal amount of experience in the back-end and in developing Android applications. My primary passion lies in transforming complex challenges into simple, beautiful, and engaging designs.
+
+I leverage leading frameworks and technologies—such as React, Vue, and Angular—to develop custom management dashboards tailored to clients' specific needs. My technical expertise encompasses a range of tools and technologies, including Nuxt, Astro, TypeScript, Nest, Prisma, and GraphQL. I also use React Native and Expo for developing Android apps, and SQLite for the database.
 
 - 💬  Feel free to reach out to me for Any opportunity full-time or part-time.
 
